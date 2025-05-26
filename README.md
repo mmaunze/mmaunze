@@ -27,13 +27,137 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 ## 🚀 **Projectos Destacados**  
 
-| Projeto | Stack | Descrição |
-|--------|-------|-----------|
-| **[Bixicatus](#)** | Flutter + Node.js | Aplicativo de partilha de bicicletas com geolocalização e planos por assinatura |
-| **[Empresys](#)** | Java + Vue.js + PostgreSQL | ERP modular para PMEs com gestão de RH, finanças, vendas e inventário |
-| **[Xipitali](#)** | Kotlin + Firebase | Plataforma médica com registos clínicos, teleconsulta e integração com farmácias |
-| **[Syibi](#)** | Next.js + MongoDB + Vision API | Sistema inteligente de bibliotecas com reconhecimento óptico de capas de livros |
-| **[Univerisydadi](#)** | PHP + Laravel + Vue | Plataforma completa de gestão universitária com módulos administrativos e pedagógicos |
+*Abaixo encontra-se uma selecção de soluções que desenvolvi recentemente em diversas áreas, como educação, saúde, gestão empresarial e entretenimento.*
+
+---
+
+### 💊 **Farmasys** – Gestão de Farmácias
+
+📅 *Última actualização: 13/10/2024*
+🔹 Sistema de controlo de medicamentos, vendas, prescrições e relatórios financeiros. Interface intuitiva e integração com sistemas de pagamento.
+🧰 *Tecnologias:* Java (Spring Boot), Vue.js, PostgreSQL, Docker
+
+---
+
+### 🍽️ **Rexitorante** – Gestão de Restaurantes
+
+📅 *Última actualização: 13/10/2024*
+🔹 Plataforma para reservas, pedidos online, cardápio digital e relatórios de vendas. Responsivo para dispositivos móveis e desktop.
+🧰 *Tecnologias:* PHP (Laravel), Next.js, MySQL, Firebase
+
+---
+
+### 🏨 **Hoteli** – Gestão Hoteleira
+
+📅 *Última actualização: 13/10/2024*
+🔹 Administração de reservas, check-in/out, facturação e integração com Booking.com.
+🧰 *Tecnologias:* Kotlin (Ktor), Vue.js, PostgreSQL, AWS
+
+---
+
+### 🎤 **Syeventus** – Organização de Eventos
+
+📅 *Última actualização: 13/10/2024*
+🔹 Venda de bilhetes, gestão de participantes e programação de actividades.
+🧰 *Tecnologias:* Python (Django), Next.js, MongoDB, Redis
+
+---
+
+### 🛒 **Vendasys** – Gestão de Vendas
+
+📅 *Última actualização: 13/10/2024*
+🔹 Gestão de clientes, produtos, pedidos e análises. Compatível com CRMs e meios de pagamento.
+🧰 *Tecnologias:* Java (Spring Boot), Vue.js, SQL Server, GraphQL
+
+---
+
+### 📦 **Xitokus** – Controlo de Stocks
+
+📅 *Última actualização: 13/10/2024*
+🔹 Rastreio de produtos, alertas de reposição e integração com sistemas de vendas.
+🧰 *Tecnologias:* PHP (Laravel), Vue.js, MySQL, Docker
+
+---
+
+### 🏥 **Xipitali** – Gestão Hospitalar
+
+📅 *Última actualização: 13/10/2024*
+🔹 Agendamento de consultas, prontuários electrónicos e relatórios médicos.
+🧰 *Tecnologias:* Java (Spring Boot), Next.js, PostgreSQL, Kubernetes
+
+---
+
+### 👩‍💻 **Bixicatus** – Plataforma Freelancer
+
+📅 *Última actualização: 14/10/2024*
+🔹 Conexão entre freelancers e clientes com perfis, propostas e pagamentos.
+🧰 *Tecnologias:* Flutter, Python (FastAPI), MongoDB, Firebase
+
+---
+
+### ⛪ **Guereja** – Gestão de Igrejas
+
+📅 *Última actualização: 17/10/2024*
+🔹 Gestão de membros, doações, eventos e relatórios financeiros.
+🧰 *Tecnologias:* PHP (Laravel), Vue.js, MySQL, AWS
+
+---
+
+### 🏢 **Empresys** – ERP Empresarial
+
+📅 *Última actualização: 21/02/2025*
+🔹 Módulos de finanças, recursos humanos, vendas e stock numa única plataforma.
+🧰 *Tecnologias:* Java (Spring Boot), Next.js, SQL Server, Docker
+
+---
+
+### 🏘️ **Rendasys** – Gestão de Aluguéis
+
+📅 *Última actualização: 21/02/2025*
+🔹 Gestão de contratos, pagamentos e comunicação com inquilinos.
+🧰 *Tecnologias:* Kotlin (Ktor), Vue.js, PostgreSQL, Firebase
+
+---
+
+### 📚 **Syibi** – Sistema de Bibliotecas
+
+📅 *Última actualização: 21/02/2025*
+🔹 Catálogo de livros, gestão de empréstimos e relatórios de uso.
+🧰 *Tecnologias:* Python (Django), Vue.js, MySQL, Redis
+
+---
+
+### 🎓 **Xicola** – Gestão Escolar
+
+📅 *Última actualização: 21/02/2025*
+🔹 Administração de alunos, professores, notas e relatórios académicos.
+🧰 *Tecnologias:* Java (Spring Boot), Next.js, PostgreSQL, AWS
+
+---
+
+### 🧭 **Prefaculdade** – Orientação Vocacional
+
+📅 *Última actualização: 21/02/2025*
+🔹 Testes vocacionais, informação sobre carreiras e mentoria estudantil.
+🧰 *Tecnologias:* Flutter, Python (FastAPI), MongoDB, Firebase
+
+---
+
+### 🗂️ **Syrequerimentos** – Gestão de Requerimentos
+
+📅 *Última actualização: 21/02/2025*
+🔹 Rastreio de solicitações, workflow de aprovação e relatórios administrativos.
+🧰 *Tecnologias:* PHP (Laravel), Vue.js, MySQL, Docker
+
+---
+
+### 🏛️ **Univerisydadi** – Gestão Universitária
+
+📅 *Última actualização: 26/04/2025*
+🔹 Matrículas, currículos, relatórios académicos e integração com sistemas de pagamento.
+🧰 *Tecnologias:* Java (Spring Boot), Next.js, SQL Server, Kubernetes
+
+---
 
 🔗 [Ver portfólio completo](https://mmaunze.com/projects)
 
