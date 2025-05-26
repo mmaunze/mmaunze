@@ -25,143 +25,49 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 ---
 
-## 🚀 **Projectos Destacados**  
+## 🛠️ **Stack Principal**  
 
-*Abaixo encontra-se uma selecção de soluções que desenvolvi recentemente em diversas áreas, como educação, saúde, gestão empresarial e entretenimento.*
-
----
-
-### 💊 **Farmasys** – Gestão de Farmácias
-
-📅 *Última actualização: 13/10/2024*
-🔹 Sistema de controlo de medicamentos, vendas, prescrições e relatórios financeiros. Interface intuitiva e integração com sistemas de pagamento.
-🧰 *Tecnologias:* Java (Spring Boot), Vue.js, PostgreSQL, Docker
+| **Categoria**       | **Tecnologias**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Backend**          | Java (Spring Boot), Kotlin (Ktor), Python (FastAPI/Django), PHP (Laravel)       |
+| **Frontend**         | Vue.js 3, Next.js 14, Tailwind CSS, GraphQL                                    |
+| **Mobile**           | Flutter                                                                        |
+| **DevOps**           | Docker, Kubernetes, GitHub Actions, AWS                                        |
+| **Bancos de Dados**  | PostgreSQL, MySQL, SQL Server, MongoDB, Redis                                  |
 
 ---
 
-### 🍽️ **Rexitorante** – Gestão de Restaurantes
+## 🚀 **Portfólio de Projetos**  
 
-📅 *Última actualização: 13/10/2024*
-🔹 Plataforma para reservas, pedidos online, cardápio digital e relatórios de vendas. Responsivo para dispositivos móveis e desktop.
-🧰 *Tecnologias:* PHP (Laravel), Next.js, MySQL, Firebase
+### 📊 **Sistemas de Gestão**  
+| Projeto       | Descrição                                                                 | Stack                          | Destaque                          |
+|---------------|---------------------------------------------------------------------------|--------------------------------|-----------------------------------|
+| **Empresys**  | ERP completo para PMEs (finanças, RH, vendas)                            | Java + Next.js + SQL Server    | Redução de 40% em processos manuais |
+| **Farmasys**  | Gestão de farmácias com controlo de stock e prescrições digitais         | Spring Boot + Vue + PostgreSQL | Integração com SNS Moçambicano    |
+| **Rendasys**  | Plataforma de arrendamento com contratos inteligentes                     | Kotlin + Next.js + Firebase    | API de scoring de inquilinos      |
 
----
+### 🏥 **Soluções para Saúde**  
+| Projeto        | Descrição                                                                 | Stack                          | Destaque                          |
+|----------------|---------------------------------------------------------------------------|--------------------------------|-----------------------------------|
+| **Xipitali**   | Prontuário eletrônico com agendamento e telemedicina                      | Spring Boot + Flutter + MongoDB | Certificado HIPAA                 |
+| **CliniTrack** | Gestão de clínicas particulares (em desenvolvimento)                      | Django + Vue + PostgreSQL      | Módulo de faturação automática    |
 
-### 🏨 **Hoteli** – Gestão Hoteleira
+### 🎓 **Educação & Cultura**  
+| Projeto          | Descrição                                                                 | Stack                          | Destaque                          |
+|------------------|---------------------------------------------------------------------------|--------------------------------|-----------------------------------|
+| **Univerisydadi**| Plataforma universitária integrada                                       | Java + Next.js + Kubernetes    | 15+ módulos acadêmicos            |
+| **Syibi**        | Sistema de bibliotecas com catálogo inteligente                           | Python + Vue + Elasticsearch   | OCR para fichas bibliográficas    |
 
-📅 *Última actualização: 13/10/2024*
-🔹 Administração de reservas, check-in/out, facturação e integração com Booking.com.
-🧰 *Tecnologias:* Kotlin (Ktor), Vue.js, PostgreSQL, AWS
+### 🛒 **Varejo & Serviços**  
+| Projeto       | Descrição                                                                 | Stack                          | Destaque                          |
+|---------------|---------------------------------------------------------------------------|--------------------------------|-----------------------------------|
+| **Vendasys**  | POS com gestão de inventário em tempo real                                | Spring Boot + Vue + Redis      | Offline-first para mercados locais|
+| **Rexitorante**| Sistema completo para restaurantes                                       | Laravel + Inertia.js + MySQL   | Integração com iFood/Glovo        |
 
----
-
-### 🎤 **Syeventus** – Organização de Eventos
-
-📅 *Última actualização: 13/10/2024*
-🔹 Venda de bilhetes, gestão de participantes e programação de actividades.
-🧰 *Tecnologias:* Python (Django), Next.js, MongoDB, Redis
-
----
-
-### 🛒 **Vendasys** – Gestão de Vendas
-
-📅 *Última actualização: 13/10/2024*
-🔹 Gestão de clientes, produtos, pedidos e análises. Compatível com CRMs e meios de pagamento.
-🧰 *Tecnologias:* Java (Spring Boot), Vue.js, SQL Server, GraphQL
-
----
-
-### 📦 **Xitokus** – Controlo de Stocks
-
-📅 *Última actualização: 13/10/2024*
-🔹 Rastreio de produtos, alertas de reposição e integração com sistemas de vendas.
-🧰 *Tecnologias:* PHP (Laravel), Vue.js, MySQL, Docker
+[🔍 **Ver todos os 16 projetos no meu portfólio**](https://mmaunze.com/projects)
 
 ---
 
-### 🏥 **Xipitali** – Gestão Hospitalar
-
-📅 *Última actualização: 13/10/2024*
-🔹 Agendamento de consultas, prontuários electrónicos e relatórios médicos.
-🧰 *Tecnologias:* Java (Spring Boot), Next.js, PostgreSQL, Kubernetes
-
----
-
-### 👩‍💻 **Bixicatus** – Plataforma Freelancer
-
-📅 *Última actualização: 14/10/2024*
-🔹 Conexão entre freelancers e clientes com perfis, propostas e pagamentos.
-🧰 *Tecnologias:* Flutter, Python (FastAPI), MongoDB, Firebase
-
----
-
-### ⛪ **Guereja** – Gestão de Igrejas
-
-📅 *Última actualização: 17/10/2024*
-🔹 Gestão de membros, doações, eventos e relatórios financeiros.
-🧰 *Tecnologias:* PHP (Laravel), Vue.js, MySQL, AWS
-
----
-
-### 🏢 **Empresys** – ERP Empresarial
-
-📅 *Última actualização: 21/02/2025*
-🔹 Módulos de finanças, recursos humanos, vendas e stock numa única plataforma.
-🧰 *Tecnologias:* Java (Spring Boot), Next.js, SQL Server, Docker
-
----
-
-### 🏘️ **Rendasys** – Gestão de Aluguéis
-
-📅 *Última actualização: 21/02/2025*
-🔹 Gestão de contratos, pagamentos e comunicação com inquilinos.
-🧰 *Tecnologias:* Kotlin (Ktor), Vue.js, PostgreSQL, Firebase
-
----
-
-### 📚 **Syibi** – Sistema de Bibliotecas
-
-📅 *Última actualização: 21/02/2025*
-🔹 Catálogo de livros, gestão de empréstimos e relatórios de uso.
-🧰 *Tecnologias:* Python (Django), Vue.js, MySQL, Redis
-
----
-
-### 🎓 **Xicola** – Gestão Escolar
-
-📅 *Última actualização: 21/02/2025*
-🔹 Administração de alunos, professores, notas e relatórios académicos.
-🧰 *Tecnologias:* Java (Spring Boot), Next.js, PostgreSQL, AWS
-
----
-
-### 🧭 **Prefaculdade** – Orientação Vocacional
-
-📅 *Última actualização: 21/02/2025*
-🔹 Testes vocacionais, informação sobre carreiras e mentoria estudantil.
-🧰 *Tecnologias:* Flutter, Python (FastAPI), MongoDB, Firebase
-
----
-
-### 🗂️ **Syrequerimentos** – Gestão de Requerimentos
-
-📅 *Última actualização: 21/02/2025*
-🔹 Rastreio de solicitações, workflow de aprovação e relatórios administrativos.
-🧰 *Tecnologias:* PHP (Laravel), Vue.js, MySQL, Docker
-
----
-
-### 🏛️ **Univerisydadi** – Gestão Universitária
-
-📅 *Última actualização: 26/04/2025*
-🔹 Matrículas, currículos, relatórios académicos e integração com sistemas de pagamento.
-🧰 *Tecnologias:* Java (Spring Boot), Next.js, SQL Server, Kubernetes
-
----
-
-🔗 [Ver portfólio completo](https://mmaunze.com/projects)
-
----
 
 ## 📈 **Estatísticas no GitHub**  
 
@@ -178,14 +84,15 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 ---
 
-## 📫 **Onde Me Encontrar**  
+## 📫 **Contactos**  
 
-📧 [meldo@mmaunze.com](mailto:meldo@mmaunze.com)  
-🌍 [mmaunze.com](https://mmaunze.com)  
-💼 [LinkedIn](https://linkedin.com/in/mmaunze)  
-🐙 [GitHub](https://github.com/mmaunze)  
-🐦 [Twitter/X](https://twitter.com/meldo_dev)  
+| Plataforma       | Link                                                                 | Melhor Para                     |
+|------------------|---------------------------------------------------------------------|---------------------------------|
+| **Email**        | [meldo@mmaunze.com](mailto:meldo@mmaunze.com)                       | Propostas comerciais            |
+| **Site**         | [mmaunze.com](https://mmaunze.com)                                  | Portfólio completo              |
+| **LinkedIn**     | [/in/mmaunze](https://linkedin.com/in/mmaunze)                      | Conexões profissionais          |
+| **GitHub**       | [/mmaunze](https://github.com/mmaunze)                              | Colaboração em projetos OSS     |
 
-> ✨ *"Codificar é a arte de esculpir lógica em soluções duradouras."*
+> 🎯 *"Minha missão é capacitar negócios africanos através de tecnologia adaptada ao nosso contexto"*
 
----
+
