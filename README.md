@@ -72,9 +72,9 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 ## 🌱 **Actualmente Estou a Trabalhar em...**
 
-- Um **framework low-code** para acelerar desenvolvimento de sistemas administrativos  
-- Investigação com **WebAssembly** para aplicações ultra-performantes no browser  
-- Mentoria de novos programadores na comunidade [@comunidade-tech](#)  
+-
+-
+-
 
 
 ## 📫 **Contactos**  
