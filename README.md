@@ -7,7 +7,7 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 🧠 Adepto de **Clean Architecture** e **Domain-Driven Design**  
 🔧 Especialista em **sistemas modulares, reutilizáveis e eficientes**
 
----
+
 
 ## 🛠️ **Arsenal Tecnológico**  
 
@@ -23,7 +23,6 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 ### 🗄️ **Bases de Dados**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql)
 
----
 
 ## 🛠️ **Stack Principal**  
 
@@ -34,8 +33,6 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 | **Mobile**           | Flutter                                                                        |
 | **DevOps**           | Docker, Kubernetes, GitHub Actions, AWS                                        |
 | **Bancos de Dados**  | PostgreSQL, MySQL, SQL Server, MongoDB, Redis                                  |
-
----
 
 ## 🚀 **Portfólio de Projetos**  
 
@@ -66,15 +63,12 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 [🔍 **Ver todos os 16 projetos no meu portfólio**](https://mmaunze.com/projects)
 
----
-
 
 ## 📈 **Estatísticas no GitHub**  
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=mmaunze&show_icons=true&theme=tokyonight)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaunze&layout=compact&theme=tokyonight)
 
----
 
 ## 🌱 **Actualmente Estou a Trabalhar em...**
 
@@ -82,7 +76,6 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 - Investigação com **WebAssembly** para aplicações ultra-performantes no browser  
 - Mentoria de novos programadores na comunidade [@comunidade-tech](#)  
 
----
 
 ## 📫 **Contactos**  
 
