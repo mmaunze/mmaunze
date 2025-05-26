@@ -9,6 +9,16 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 
 
+## 🛠️ **Stack Principal**  
+
+| **Categoria**       | **Tecnologias**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Backend**          | Java (Spring Boot), Kotlin (Ktor), Python (FastAPI/Django), PHP (Laravel)       |
+| **Frontend**         | Vue.js 3, Next.js 14, Tailwind CSS, GraphQL                                    |
+| **Mobile**           | Flutter                                                                        |
+| **DevOps**           | Docker, Kubernetes, GitHub Actions, AWS                                        |
+| **Bancos de Dados**  | PostgreSQL, MySQL, SQL Server, MongoDB, Redis                                  |
+
 ## 🛠️ **Arsenal Tecnológico**  
 
 ### 👨‍💻 **Linguagens de Programação**  
@@ -22,17 +32,6 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 ### 🗄️ **Bases de Dados**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql)
-
-
-## 🛠️ **Stack Principal**  
-
-| **Categoria**       | **Tecnologias**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **Backend**          | Java (Spring Boot), Kotlin (Ktor), Python (FastAPI/Django), PHP (Laravel)       |
-| **Frontend**         | Vue.js 3, Next.js 14, Tailwind CSS, GraphQL                                    |
-| **Mobile**           | Flutter                                                                        |
-| **DevOps**           | Docker, Kubernetes, GitHub Actions, AWS                                        |
-| **Bancos de Dados**  | PostgreSQL, MySQL, SQL Server, MongoDB, Redis                                  |
 
 ## 🚀 **Portfólio de Projetos**  
 
@@ -72,9 +71,9 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 ## 🌱 **Actualmente Estou a Trabalhar em...**
 
--
--
--
+- **CliniTrack**: Finalizando o módulo de faturação automática e integração com sistemas de pagamento locais para clínicas em Moçambique.
+- **Prefaculdade**: Desenvolvendo uma API GraphQL para personalização de recomendações vocacionais com base em IA.
+- **Exploração de IA**: Estudando frameworks como TensorFlow e PyTorch para integrar análises preditivas em sistemas de gestão.
 
 
 ## 📫 **Contactos**  
@@ -86,6 +85,6 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 | **LinkedIn**     | [/in/mmaunze](https://linkedin.com/in/mmaunze)                      | Conexões profissionais          |
 | **GitHub**       | [/mmaunze](https://github.com/mmaunze)                              | Colaboração em projetos OSS     |
 
-> 🎯 *"Minha missão é capacitar negócios africanos através de tecnologia adaptada ao nosso contexto"*
+> 🎯 *"Minha missão é capacitar negócios Moçambicanos através de tecnologia adaptada ao nosso contexto"*
 
 
