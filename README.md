@@ -67,7 +67,7 @@ Sou um engenheiro de software com mais de **5 anos de experiência** a desenvolv
 
 | Estatísticas do Perfil | Linguagens Mais Usadas |
 |------------------------|------------------------|
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mmaunze&show_icons=true&theme=tokyonight) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaunze&layout=compact&theme=tokyonight) |
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mmaunze&show_icons=true&theme=tokyonight&count_private=true) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaunze&layout=compact&theme=tokyonight) |
 
 
 ## 🌱 **Actualmente Estou a Trabalhar em...**
